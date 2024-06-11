@@ -1,0 +1,66 @@
+.box-A h2 {
+    text-transform: uppercase;
+    line-height: 1.9em;
+    text-align: center;
+    color: black;
+
+    
+}
+
+.box-A h3{
+    text-transform: uppercase;
+    line-height: 1.9em;
+    text-align: left;
+    color: rgb(105, 233, 20);
+    font-size: 30px;
+}
+.box-A h4{
+    text-transform: uppercase;
+    line-height: 1.9em;
+    text-align: left;
+    color: black;
+}
+body{
+  background-color: rgb(178, 236, 214);
+   background-image: url(./images/css.jpg);
+   background-size: cover;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 20px;
+  font-weight: 900;
+  line-height: 1.6em;
+  margin: 0;
+  
+}
+.box-A{
+         background-color: white;
+color: rgb(0, 17, 255);
+background-image: url(./images/anuradhapura.jpg);
+background-size: cover;
+border: 5px black solid;
+padding: 40px;
+margin: 40px;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    
+}
+.box-A p{
+    background-color: white;
+color: rgb(0, 17, 255);
+
+border: 5px black solid;
+padding: 40px;
+margin: 40px;
+}
+ /*Footer*/
+ #ftr{
+    
+    background-color: rgb(0, 255, 128);
+    color: black;
+    text-align: center;
+    padding: 5px;
+    margin-top: 50px;
+}
+
